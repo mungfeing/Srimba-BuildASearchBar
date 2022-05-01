@@ -24,3 +24,4 @@ usernameInput.addEventListener("keyup", function(event){
     
     
 ```
+- Adding the "list-style: none" CSS class to the unordered list (<ul>) or ordered list (<ol>) tag removes any bullet or number.
