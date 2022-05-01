@@ -1,6 +1,7 @@
 # Srimba-BuildASearchBar
 ## Screenshots
-
+![This is an image](assets/images/1.png)
+![This is an image](https://myoctocat.com/assets/images/2.png)
 
 ## New Concepts
 ### keyup
