@@ -1,4 +1,7 @@
 # Srimba-BuildASearchBar
+## Screenshots
+
+
 ## New Concepts
 ### keyup
 - The keydown and keyup **events** provide a code indicating which key is pressed, while keypress indicates which character was entered. 
