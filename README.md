@@ -25,3 +25,5 @@ usernameInput.addEventListener("keyup", function(event){
     
 ```
 - Adding the "list-style: none" CSS class to the unordered list (<ul>) or ordered list (<ol>) tag removes any bullet or number.
+- Finally! I understand the difference between element and id and why we need to use DOM.
+    - because id is id and element is element. We could not get element by simply get id.
