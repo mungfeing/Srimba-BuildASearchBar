@@ -1,7 +1,7 @@
 # Srimba-BuildASearchBar
 ## New Concepts
 - The keydown and keyup **events** provide a code indicating which key is pressed, while keypress indicates which character was entered. 
-### event.target.valu 
+### event.target.value 
 - The addEventListener() method attaches an event handler to the specified element
 - addEventListener() has a second parameter of 'function', which gives us an '**event**', which inside has lots of properties and methods
 - We can use the property of '**target**' which returns **the element that triggered the event**
